@@ -6,3 +6,10 @@
   3. No arquivo result.txt informar o número do concurso e em seguida os números sorteados
   4. Rodar o programa LoteriaApp.java
   5. Verificar o arquivo de resultado result-processed.txt
+
+  ### 2 . Arquivo result.txt
+  1. Informar o número do concurso e em seguida os números sorteados. Tudo separado por vírgulas
+  
+  ### 2 . Executar o programa
+  4. Rodar o programa LoteriaApp.java
+  5. Verificar o arquivo de resultado result-processed.txt
