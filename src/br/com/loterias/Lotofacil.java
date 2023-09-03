@@ -17,7 +17,7 @@ public class Lotofacil {
 
 	public static void main(String[] args) {
 		try {
-			String betsFile = PATH + "example-bets-lotofacil.txt";
+			String betsFile = PATH + "bets-lotofacil.txt";
 			String resultFile = PATH + "result-lotofacil.txt";
 			String resultProcessed = PATH + "result-processed-lotofacil.txt";
 
