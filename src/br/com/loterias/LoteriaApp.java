@@ -11,15 +11,15 @@ import java.util.Comparator;
 import java.util.List;
 
 
-public class Lotofacil {
+public class LoteriaApp {
 
 	private static final String PATH = System.getProperty("user.dir") + "\\src\\";
 
 	public static void main(String[] args) {
 		try {
-			String betsFile = PATH + "bets-lotofacil.txt";
-			String resultFile = PATH + "result-lotofacil.txt";
-			String resultProcessed = PATH + "result-processed-lotofacil.txt";
+			String betsFile = PATH + "bets.txt";
+			String resultFile = PATH + "result.txt";
+			String resultProcessed = PATH + "result-processed.txt";
 
 			List<Bet> bets = buildBets(betsFile);
 			Result result = buildResult(resultFile);
