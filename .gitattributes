@@ -1,0 +1,5 @@
+# Normaliza fins de linha no repositório (LF), independentemente do sistema operacional.
+* text=auto eol=lf
+
+*.cmd text eol=crlf
+*.bat text eol=crlf
